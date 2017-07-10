@@ -1,0 +1,6 @@
+[submodule "facedetect"]
+	path = facedetect
+	url = https://github.com/findnitai/facedetect.git
+[submodule "learnTF"]
+	path = learnTF
+	url = https://github.com/findnitai/learnTF.git
